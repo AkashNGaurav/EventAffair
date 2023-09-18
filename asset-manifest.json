@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EventAffair/static/css/main.136d76e6.css",
-    "main.js": "/EventAffair/static/js/main.44411a12.js",
+    "main.js": "/EventAffair/static/js/main.4820d7f1.js",
     "static/js/787.2833231b.chunk.js": "/EventAffair/static/js/787.2833231b.chunk.js",
     "static/media/EA-3.PNG": "/EventAffair/static/media/EA-3.04c3aa6ca41f0c4414bb.PNG",
     "static/media/EA-4.PNG": "/EventAffair/static/media/EA-4.41d654cb6388686602bb.PNG",
@@ -16,11 +16,11 @@
     "static/media/food.jpg": "/EventAffair/static/media/food.199b4b42196ee10959a3.jpg",
     "index.html": "/EventAffair/index.html",
     "main.136d76e6.css.map": "/EventAffair/static/css/main.136d76e6.css.map",
-    "main.44411a12.js.map": "/EventAffair/static/js/main.44411a12.js.map",
+    "main.4820d7f1.js.map": "/EventAffair/static/js/main.4820d7f1.js.map",
     "787.2833231b.chunk.js.map": "/EventAffair/static/js/787.2833231b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.136d76e6.css",
-    "static/js/main.44411a12.js"
+    "static/js/main.4820d7f1.js"
   ]
 }
