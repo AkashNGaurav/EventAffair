@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/AkashNGaurav/EventAffair.git/static/css/main.136d76e6.css",
-    "main.js": "/AkashNGaurav/EventAffair.git/static/js/main.64264daf.js",
-    "static/js/787.2833231b.chunk.js": "/AkashNGaurav/EventAffair.git/static/js/787.2833231b.chunk.js",
-    "static/media/EA-3.PNG": "/AkashNGaurav/EventAffair.git/static/media/EA-3.04c3aa6ca41f0c4414bb.PNG",
-    "static/media/EA-4.PNG": "/AkashNGaurav/EventAffair.git/static/media/EA-4.41d654cb6388686602bb.PNG",
-    "static/media/EA-1.PNG": "/AkashNGaurav/EventAffair.git/static/media/EA-1.66c31f90f2dca4ba514b.PNG",
-    "static/media/Management.jpg": "/AkashNGaurav/EventAffair.git/static/media/Management.bdc54df323a29785f58f.jpg",
-    "static/media/EA-2.PNG": "/AkashNGaurav/EventAffair.git/static/media/EA-2.7583bd564f0f6e9654e2.PNG",
-    "static/media/gift.jpg": "/AkashNGaurav/EventAffair.git/static/media/gift.3c9894e9bb252c1d1cc8.jpg",
-    "static/media/Helvetica.ttf": "/AkashNGaurav/EventAffair.git/static/media/Helvetica.06113bf748ae7dc33e05.ttf",
-    "static/media/vendor.jpg": "/AkashNGaurav/EventAffair.git/static/media/vendor.c492b685ab1e3277bcdf.jpg",
-    "static/media/decoration.jpg": "/AkashNGaurav/EventAffair.git/static/media/decoration.ed8772e92c432aaf59ee.jpg",
-    "static/media/dj.jpg": "/AkashNGaurav/EventAffair.git/static/media/dj.9654c41ea16e775c2000.jpg",
-    "static/media/food.jpg": "/AkashNGaurav/EventAffair.git/static/media/food.199b4b42196ee10959a3.jpg",
-    "index.html": "/AkashNGaurav/EventAffair.git/index.html",
-    "main.136d76e6.css.map": "/AkashNGaurav/EventAffair.git/static/css/main.136d76e6.css.map",
-    "main.64264daf.js.map": "/AkashNGaurav/EventAffair.git/static/js/main.64264daf.js.map",
-    "787.2833231b.chunk.js.map": "/AkashNGaurav/EventAffair.git/static/js/787.2833231b.chunk.js.map"
+    "main.css": "/EventAffair/static/css/main.136d76e6.css",
+    "main.js": "/EventAffair/static/js/main.44411a12.js",
+    "static/js/787.2833231b.chunk.js": "/EventAffair/static/js/787.2833231b.chunk.js",
+    "static/media/EA-3.PNG": "/EventAffair/static/media/EA-3.04c3aa6ca41f0c4414bb.PNG",
+    "static/media/EA-4.PNG": "/EventAffair/static/media/EA-4.41d654cb6388686602bb.PNG",
+    "static/media/EA-1.PNG": "/EventAffair/static/media/EA-1.66c31f90f2dca4ba514b.PNG",
+    "static/media/Management.jpg": "/EventAffair/static/media/Management.bdc54df323a29785f58f.jpg",
+    "static/media/EA-2.PNG": "/EventAffair/static/media/EA-2.7583bd564f0f6e9654e2.PNG",
+    "static/media/gift.jpg": "/EventAffair/static/media/gift.3c9894e9bb252c1d1cc8.jpg",
+    "static/media/Helvetica.ttf": "/EventAffair/static/media/Helvetica.06113bf748ae7dc33e05.ttf",
+    "static/media/vendor.jpg": "/EventAffair/static/media/vendor.c492b685ab1e3277bcdf.jpg",
+    "static/media/decoration.jpg": "/EventAffair/static/media/decoration.ed8772e92c432aaf59ee.jpg",
+    "static/media/dj.jpg": "/EventAffair/static/media/dj.9654c41ea16e775c2000.jpg",
+    "static/media/food.jpg": "/EventAffair/static/media/food.199b4b42196ee10959a3.jpg",
+    "index.html": "/EventAffair/index.html",
+    "main.136d76e6.css.map": "/EventAffair/static/css/main.136d76e6.css.map",
+    "main.44411a12.js.map": "/EventAffair/static/js/main.44411a12.js.map",
+    "787.2833231b.chunk.js.map": "/EventAffair/static/js/787.2833231b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.136d76e6.css",
-    "static/js/main.64264daf.js"
+    "static/js/main.44411a12.js"
   ]
 }
