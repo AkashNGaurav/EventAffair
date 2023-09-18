@@ -95,7 +95,7 @@ function Navbar(props) {
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
               <Button key="Home" sx={{ color: '#fff' }}
               onClick={() => {
-                navigate.push(`/`)
+                navigate.push(`/EventAffair`)
               }}>
                 Home
               </Button>
@@ -104,7 +104,7 @@ function Navbar(props) {
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
               <Button key="Services" sx={{ color: '#fff' }}
               onClick={() => {
-                navigate.push(`/services`)
+                navigate.push(`/EventAffair/services`)
               }}>
                 Services
               </Button>
@@ -113,7 +113,7 @@ function Navbar(props) {
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
               <Button key="About" sx={{ color: '#fff' }}
               onClick={() => {
-                navigate.push(`/about`)
+                navigate.push(`/EventAffair/about`)
               }}>
                 About
               </Button>
@@ -122,7 +122,7 @@ function Navbar(props) {
           <Box sx={{ display: { xs: 'none', sm: 'block' } }}>
               <Button key="Contact" sx={{ color: '#fff' }}
               onClick={() => {
-                navigate.push(`/contact`)
+                navigate.push(`/EventAffair/contact`)
               }}>
                 Contact
               </Button>

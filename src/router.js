@@ -15,10 +15,10 @@ export default function AppRouter() {
         {/* <Router> */}
           <Switch>
         
-            <Route exact path="/" component={Homepage} />
-            <Route path="/services" component={Servicepage} />
-            <Route path="/about" component={Aboutpage} />
-            <Route path="/contact" component={ContactPage} />
+            <Route exact path="/EventAffair/" component={Homepage} />
+            <Route path="/EventAffair/services" component={Servicepage} />
+            <Route path="/EventAffair/about" component={Aboutpage} />
+            <Route path="/EventAffair/contact" component={ContactPage} />
             
           </Switch>
           <Navbar />
