@@ -2,7 +2,7 @@
   "name": "event-organizer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AkashNGaurav/EventAffair.git",
+  "homepage": "http://AkashNGaurav.github.io/EventAffair",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
