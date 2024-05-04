@@ -58,7 +58,7 @@ export default function ContactPage() {
         </Typography>
      
         <Typography variant="body2" color="text.secondary">
-        Jubli Event Organizer, Mahendru, Patna, Bihar, Pin Code 800006
+        JUBLEE Decorators, Mahendru, Patna, Bihar, Pin Code 800006
         </Typography>
         <br/>
         <br/>
@@ -128,7 +128,7 @@ export default function ContactPage() {
             <br/>
             <div class="mapouter">
                 <div class="gmap_canvas">
-                    <iframe class="gmap_iframe" frameborder="1" scrolling="no" marginheight="5" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=1800&amp;hl=en&amp;q=Jubli decorators patna&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                    <iframe class="gmap_iframe" frameborder="1" scrolling="no" marginheight="5" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=1800&amp;hl=en&amp;q=JUBLEE Decorators patna&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
                 </div>
             </div>
             {/* <div class="map-wrapper">
@@ -195,7 +195,7 @@ export default function ContactPage() {
                                 <div class="widget widget-out-link clearfix">
                                     <h4 class="widget-title">Contact Us</h4>
                                     <ul class="widget-contact">
-                                        <li><i class="fa fa-map-marker"></i>Jubli Event Organizer, Mahendru, Patna,  Bihar, Pin Code 800006</li>
+                                        <li><i class="fa fa-map-marker"></i>JUBLEE Decorators, Mahendru, Patna,  Bihar, Pin Code 800006</li>
                                         <li><i class="fa fa-envelope-o"></i><a href="#">info@eventaffair.com</a></li>
                                         <li><i class="fa fa-phone"></i>Phone: (+91) 8340501684</li>
                                     </ul>

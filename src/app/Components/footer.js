@@ -12,43 +12,39 @@ export default function Footer() {
       component="footer"
       sx={{
         backgroundColor: (theme) =>
-          theme.palette.mode === "light"
-            ? "#14081f"
-            : theme.palette.grey[800],
+          theme.palette.mode === "light" ? "#14081f" : theme.palette.grey[800],
         p: 0,
       }}
 
-        // sx={{
-        //     backgroundColor: (theme) =>
-        //     theme.palette.mode === "light"
-        //         ? theme.palette.red[200]
-        //         : theme.palette.red[800],
-        //     p: 6,
-        // }}
+      // sx={{
+      //     backgroundColor: (theme) =>
+      //     theme.palette.mode === "light"
+      //         ? theme.palette.red[200]
+      //         : theme.palette.red[800],
+      //     p: 6,
+      // }}
     >
-        <hr />
+      <hr />
       <Container maxWidth="lg">
-
-        
         <Grid container spacing={10}>
           <Grid item xs={12} sm={4}>
             <Typography variant="h6" color="blue" gutterBottom>
               About Us
             </Typography>
             <Typography variant="body2" color="white">
-              We are Event Organizer, dedicated to providing the best service to our
-              customers.
+              We are Event Organizer, dedicated to providing the best service to
+              our customers.
             </Typography>
           </Grid>
           <Grid item xs={12} sm={4}>
-            <Typography variant="h6"  color="blue" gutterBottom>
+            <Typography variant="h6" color="blue" gutterBottom>
               Contact Us
             </Typography>
             <Typography variant="body2" color="white">
-            Jubli Event Organizer, Mahendru, Patna,  Bihar, Pin Code 800006
+              JUBLEE Decorators, Mahendru, Patna, Bihar, Pin Code 800006
             </Typography>
             <Typography variant="body2" color="white">
-              Email: info@eventaffair.com
+              Email: info@eventaffair.in
             </Typography>
             <Typography variant="body2" color="white">
               Phone: (+91) 8340501684
@@ -76,8 +72,11 @@ export default function Footer() {
         <Box mt={5}>
           <Typography variant="body2" color="white" align="center">
             {"Copyright © "}
-            <Link color="inherit" href="https://your-website.com/">
-              Your Website
+            <Link
+              color="inherit"
+              href="https://github.com/AkashNGaurav/EventAffair"
+            >
+              EventAffair
             </Link>{" "}
             {new Date().getFullYear()}
             {"."}
